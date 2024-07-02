@@ -1,0 +1,17 @@
+{
+  "name": "stake-sol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@dfns/lib-solana": "^0.5.2-rc.1",
+    "@dfns/sdk": "^0.5.2-rc.1",
+    "@dfns/sdk-keysigner": "^0.5.2-rc.1",
+    "axios": "^1.7.2"
+  }
+}
